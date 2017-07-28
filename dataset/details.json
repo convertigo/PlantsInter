@@ -1,0 +1,427 @@
+[
+  {
+    "view": "PLANTS",
+    "navParams": ""
+  },
+  {
+    "view": "PLANTS",
+    "requestable": "PlantsInter.getPlants",
+    "data": {"PLANTS": {"PLANT": [
+      {
+        "LAT": 48.69692512268069,
+        "LNG": 2.1797803044319153,
+        "ID": "0",
+        "alert": true
+      },
+      {
+        "LAT": 47.78931771,
+        "LNG": 2.7752848,
+        "ID": "1",
+        "alert": false
+      },
+      {
+        "LAT": 49.1749107,
+        "LNG": 3.70475549,
+        "ID": "2",
+        "alert": false
+      },
+      {
+        "LAT": 49.50056092,
+        "LNG": 3.50269819,
+        "ID": "3",
+        "alert": false
+      },
+      {
+        "LAT": 47.84691275,
+        "LNG": 2.27998049,
+        "ID": "4",
+        "alert": false
+      },
+      {
+        "LAT": 48.04641016,
+        "LNG": 1.63275039,
+        "ID": "5",
+        "alert": false
+      },
+      {
+        "LAT": 47.99298275,
+        "LNG": 2.70256422,
+        "ID": "6",
+        "alert": false
+      },
+      {
+        "LAT": 49.18102667,
+        "LNG": 4.0192093,
+        "ID": "7",
+        "alert": false
+      },
+      {
+        "LAT": 48.75137643,
+        "LNG": 3.31246992,
+        "ID": "8",
+        "alert": false
+      },
+      {
+        "LAT": 49.34847926,
+        "LNG": 0.54358824,
+        "ID": "9",
+        "alert": false
+      },
+      {
+        "LAT": 48.01690568,
+        "LNG": 3.86076423,
+        "ID": "10",
+        "alert": false
+      },
+      {
+        "LAT": 47.74693297,
+        "LNG": 1.75368136,
+        "ID": "11",
+        "alert": false
+      },
+      {
+        "LAT": 49.16931041,
+        "LNG": 0.69677218,
+        "ID": "12",
+        "alert": false
+      },
+      {
+        "LAT": 48.83118537,
+        "LNG": 1.54780116,
+        "ID": "13",
+        "alert": false
+      },
+      {
+        "LAT": 48.69849499,
+        "LNG": 0.46365192,
+        "ID": "14",
+        "alert": false
+      },
+      {
+        "LAT": 49.85289908,
+        "LNG": 2.12421265,
+        "ID": "15",
+        "alert": false
+      },
+      {
+        "LAT": 49.65270625,
+        "LNG": 3.55557714,
+        "ID": "16",
+        "alert": false
+      },
+      {
+        "LAT": 48.94172671,
+        "LNG": 1.36276304,
+        "ID": "17",
+        "alert": false
+      },
+      {
+        "LAT": 48.76397972,
+        "LNG": 3.15191415,
+        "ID": "18",
+        "alert": false
+      },
+      {
+        "LAT": 49.38881946,
+        "LNG": 1.86110862,
+        "ID": "19",
+        "alert": false
+      },
+      {
+        "LAT": 48.3288257,
+        "LNG": 1.87250272,
+        "ID": "20",
+        "alert": false
+      },
+      {
+        "LAT": 48.00709329,
+        "LNG": 1.21903363,
+        "ID": "21",
+        "alert": false
+      },
+      {
+        "LAT": 48.1633424,
+        "LNG": 1.3427835,
+        "ID": "22",
+        "alert": false
+      },
+      {
+        "LAT": 49.12546603,
+        "LNG": 3.74273614,
+        "ID": "23",
+        "alert": false
+      },
+      {
+        "LAT": 48.91247152,
+        "LNG": 0.4138223,
+        "ID": "24",
+        "alert": false
+      },
+      {
+        "LAT": 48.19171661,
+        "LNG": 1.77310047,
+        "ID": "25",
+        "alert": false
+      },
+      {
+        "LAT": 48.32511194,
+        "LNG": 2.41563714,
+        "ID": "26",
+        "alert": false
+      },
+      {
+        "LAT": 49.27699146,
+        "LNG": 4.02999415,
+        "ID": "27",
+        "alert": false
+      },
+      {
+        "LAT": 48.98432705,
+        "LNG": 2.52165064,
+        "ID": "28",
+        "alert": false
+      },
+      {
+        "LAT": 48.0031695,
+        "LNG": 3.62701975,
+        "ID": "29",
+        "alert": false
+      },
+      {
+        "LAT": 49.49525954,
+        "LNG": 2.17003291,
+        "ID": "30",
+        "alert": false
+      },
+      {
+        "LAT": 48.47907612,
+        "LNG": 2.39378549,
+        "ID": "31",
+        "alert": false
+      },
+      {
+        "LAT": 49.18970847,
+        "LNG": 2.03419476,
+        "ID": "32",
+        "alert": false
+      },
+      {
+        "LAT": 47.51227568,
+        "LNG": 1.90598881,
+        "ID": "33",
+        "alert": false
+      },
+      {
+        "LAT": 47.46412561,
+        "LNG": 2.65823423,
+        "ID": "34",
+        "alert": false
+      },
+      {
+        "LAT": 48.56472203,
+        "LNG": 2.60472609,
+        "ID": "35",
+        "alert": false
+      },
+      {
+        "LAT": 48.14492741,
+        "LNG": 1.15534982,
+        "ID": "36",
+        "alert": false
+      },
+      {
+        "LAT": 49.85752122,
+        "LNG": 2.9517911,
+        "ID": "37",
+        "alert": false
+      },
+      {
+        "LAT": 49.12708427,
+        "LNG": 2.70782793,
+        "ID": "38",
+        "alert": false
+      },
+      {
+        "LAT": 48.50872828,
+        "LNG": 2.33388008,
+        "ID": "39",
+        "alert": false
+      },
+      {
+        "LAT": 48.48264826,
+        "LNG": 1.81947203,
+        "ID": "40",
+        "alert": false
+      },
+      {
+        "LAT": 48.78596325,
+        "LNG": 1.4964778,
+        "ID": "41",
+        "alert": false
+      },
+      {
+        "LAT": 48.61525198,
+        "LNG": 3.50935066,
+        "ID": "42",
+        "alert": false
+      },
+      {
+        "LAT": 48.13473515,
+        "LNG": 2.95661695,
+        "ID": "43",
+        "alert": false
+      },
+      {
+        "LAT": 48.14760236,
+        "LNG": 1.84087575,
+        "ID": "44",
+        "alert": false
+      },
+      {
+        "LAT": 49.15367617,
+        "LNG": 3.11604919,
+        "ID": "45",
+        "alert": false
+      },
+      {
+        "LAT": 48.98134805,
+        "LNG": 0.55111533,
+        "ID": "46",
+        "alert": false
+      },
+      {
+        "LAT": 48.05086309,
+        "LNG": 2.29227876,
+        "ID": "47",
+        "alert": false
+      },
+      {
+        "LAT": 47.44907721,
+        "LNG": 2.19221398,
+        "ID": "48",
+        "alert": false
+      },
+      {
+        "LAT": 48.60923237,
+        "LNG": 3.13308395,
+        "ID": "49",
+        "alert": false
+      },
+      {
+        "LAT": 49.55069493,
+        "LNG": 3.46898286,
+        "ID": "50",
+        "alert": false
+      }
+    ]}},
+    "navParams": null
+  },
+  {
+    "view": "MACHINES",
+    "requestable": "PlantsInter.getMachines",
+    "data": {"MACHINES": {"MACHINE": [
+      {
+        "NAME": "Machine #0",
+        "M_ID": "53329-977",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #1",
+        "M_ID": "49852-301",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #2",
+        "M_ID": "0187-0140",
+        "ALERT": true,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #3",
+        "M_ID": "24286-1555",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #4",
+        "M_ID": "61957-1430",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #5",
+        "M_ID": "55111-205",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #6",
+        "M_ID": "54569-0793",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #7",
+        "M_ID": "49260-611",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #8",
+        "M_ID": "53675-154",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #9",
+        "M_ID": "21695-744",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #10",
+        "M_ID": "76088-200",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #11",
+        "M_ID": "54473-232",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #12",
+        "M_ID": "54340-503",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #13",
+        "M_ID": "60637-015",
+        "ALERT": false,
+        "P_ID": 0
+      },
+      {
+        "NAME": "Machine #14",
+        "M_ID": "67877-222",
+        "ALERT": false,
+        "P_ID": 0
+      }
+    ]}},
+    "navParams": ""
+  },
+  {
+    "view": "DETAILS",
+    "requestable": "PlantsInter.getMachineDetails",
+    "data": {"DETAILS": {"DETAIL": {
+      "MODEL": "Solarbreeze",
+      "M_ID": "0187-0140",
+      "INSTALL_DATE": "27\/05\/2006",
+      "LAST_INTER_DATE": "27\/10\/2016"
+    }}},
+    "navParams": ""
+  }
+]
