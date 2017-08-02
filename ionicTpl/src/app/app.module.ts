@@ -8,8 +8,8 @@ import { StatusBar }                                                          fr
 import { SuperTabsModule }                                                    from 'ionic2-super-tabs';
 import { AgmCoreModule }                                                      from '@agm/core';
 import { ChartsModule }                                                       from 'ng2-charts';
-import 'chartjs-lines-plugin';
-/*import 'chartjs-plugin-annotation';*/
+//import 'chartjs-lines-plugin';
+import 'chartjs-plugin-annotation';
 
 
 import { C8o }                                                                from "c8osdkangular";
